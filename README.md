@@ -6,15 +6,9 @@ A FlowLayout for Android, which allows child views flow to next row when there i
 <img src="images/sample.png" width="360"/>
 </p>
 
-
-## Gradle
-
-```
-compile 'com.nex3z:flow-layout:1.2.4'
-```
-
-
 ## Usage
+
+This version of library still not published in any repositories such as Maven or Jitpack, so you need to download the sources from here and embed it as library module in your Android project.
 
 ```xml
 <com.nex3z.flowlayout.FlowLayout
@@ -60,7 +54,7 @@ compile 'com.nex3z:flow-layout:1.2.4'
 ## Licence
 
 ```
-Copyright 2016 nex3z
+Copyright 2016 hmmmk
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
